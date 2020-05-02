@@ -7,11 +7,12 @@
   "contributors": [
     "Dimitri DO BAIRRO <dimitri.dobairro@dimsolution.com>",
     "Tauheed khan <tauheed.khan@outlook.com>"
+    "Sonia Jasuja <soniajasuja27@gmail.com>"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tauheedkhan/supertest"
+    "url": "https://github.com/soniajasuja/supertest"
   },
   "engines": {
     "node": ">=6.0.0"
